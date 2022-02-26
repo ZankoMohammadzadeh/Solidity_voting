@@ -9,7 +9,7 @@ contract Ballot{
     struct Voter{
         uint weight;
         bool voted;
-        address delegate;
+        address delegate; // to assign your right of voting to someone else
         uint vote;
     }
 
