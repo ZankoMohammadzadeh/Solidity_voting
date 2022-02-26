@@ -10,7 +10,7 @@ contract Ballot{
         uint weight;
         bool voted;
         address delegate;
-        uint vote;
+        uint vote; // index of candidate
     }
 
     struct Proposal{
