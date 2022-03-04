@@ -1,2 +1,2 @@
-# Solidity_sample
+# Solidity_voting
 Voting
